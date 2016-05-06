@@ -1,0 +1,2 @@
+# animaTex
+Animated Latex Expressions
